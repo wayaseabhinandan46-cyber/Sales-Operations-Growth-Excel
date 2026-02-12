@@ -30,7 +30,7 @@ Sales operations dataset containing:
 
 ## Dashboard Preview
 
-![Dashboard Overview](excel dashbord.png)
+![Dashboard Overview](Sales-Operations-Growth-Excel/excel dashbord.png)
 
 ## Outcome
 The dashboard enables management to monitor sales growth and make data-driven operational decisions.
