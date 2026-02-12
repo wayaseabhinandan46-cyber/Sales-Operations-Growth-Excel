@@ -75,7 +75,7 @@ The dashboard reduces manual reporting effort and provides:
 
 ## Dashboard Preview
 
-![Dashboard Overview](excel%20dashbord.png)
+![Dashboard Overview](screenshot1.png)
 
 
 ---
